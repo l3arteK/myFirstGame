@@ -8,5 +8,6 @@ W folderze "Gra" można znależć plik .exe uruchamiający całą grę.
 Gra polega na omijaniu swoim pojzadem nadlatujących pocisków, jeśli jedna z nich trafi w nas tracimy życie. 
 
 ## Sterowanie
-W - góra
-S - dół
+[W] - góra
+
+[S] - dół
